@@ -21,3 +21,7 @@ Breakfast: None
 Name: Tatty
 Transport: BTS
 Breakfast: Corn milk
+
+Name: Naphas Seenakasa
+Transport: Muvmi
+Breakfast: Bread, Milk

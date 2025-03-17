@@ -79,3 +79,7 @@ Name: Parn
 My drink: milk
 
 =============================================
+Name: Nampu 
+My drink: Green milk tea ja
+
+=============================================
