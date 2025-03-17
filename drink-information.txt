@@ -23,6 +23,10 @@ Name: Champ2
 My drink: Americano
 
 =============================================
+Name: Note
+My drink: Coco
+
+=============================================
 Name: Gift
 My drink: Pink Milk
 
