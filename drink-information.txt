@@ -26,7 +26,6 @@ Name: Gift
 My drink: Pink Milk
 
 =============================================
-
 Name: Lynchz
 My drink:コーヒー
 
@@ -40,10 +39,14 @@ My drink: Beer
 
 =============================================
 Name: Tatty
-My drink: Match Latte 
+My drink: Match Latte
 
 =============================================
 Name: Frosty
 My drink: No drink kub
+
+=============================================
+Name: Chaiyo
+My drink: Americano with extra sugar and cream with orange juice
 
 =============================================
