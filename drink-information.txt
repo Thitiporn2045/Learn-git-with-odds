@@ -1,14 +1,25 @@
 Example:
 Name: <your name>
 My drink: <your drink>
-
 =============================================
 Name: Champ
 My drink: Americano
 
 =============================================
+Name: Kan
+My drink: Milk
+
+=============================================
+Name: Wanus
+My drink:  เหล้าขาว
+
+=============================================
 Name: Boss
 My drink: Water
+
+=============================================
+Name: Tew
+My drink: โซดไฟ
 
 =============================================
 Name: Champ2
@@ -17,5 +28,50 @@ My drink: Americano
 =============================================
 Name: FameNuRe
 My drink: Matcha Latte
+
+=============================================
+Name: Note
+My drink: Coco
+
+=============================================
+Name: Gift
+My drink: Pink Milk
+
+
+=============================================
+Name: Lynchz
+My drink:コーヒー
+
+=============================================
+Name: Gift
+My drink: Pink Milk
+
+=============================================
+Name: Train
+My drink: Beer
+
+=============================================
+Name: Tatty
+My drink: Match Latte
+
+=============================================
+
+Name: First
+My drink: C-vitt high vitamin
+=============================================
+Name: Frosty
+My drink: No drink kub
+
+=============================================
+Name: Chaiyo
+My drink: Americano with extra sugar and cream with orange juice
+
+=============================================
+Name: Umpi
+My drink: Coffee
+
+=============================================
+Name: Goko
+My drink: Beer
 
 =============================================
