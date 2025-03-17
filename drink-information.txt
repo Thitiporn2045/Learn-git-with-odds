@@ -80,6 +80,6 @@ My drink: milk
 
 =============================================
 Name: Nampu 
-My drink: Green milk tea
+My drink: Green milk tea ja
 
 =============================================
