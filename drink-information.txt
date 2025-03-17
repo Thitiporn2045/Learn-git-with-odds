@@ -26,6 +26,10 @@ Name: Champ2
 My drink: Americano
 
 =============================================
+Name: FameNuRe
+My drink: Matcha Latte
+
+=============================================
 Name: Note
 My drink: Coco
 
