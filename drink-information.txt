@@ -6,6 +6,10 @@ Name: Champ
 My drink: Americano
 
 =============================================
+Name: Kan
+My drink: Milk
+
+=============================================
 Name: Wanus
 My drink:  เหล้าขาว
 
@@ -28,6 +32,7 @@ My drink: Coco
 =============================================
 Name: Gift
 My drink: Pink Milk
+
 
 =============================================
 Name: Lynchz
