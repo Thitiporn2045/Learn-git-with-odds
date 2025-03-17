@@ -83,3 +83,7 @@ Name: Nampu
 My drink: Green milk tea ja
 
 =============================================
+Name: GIFT
+My drink: milk
+
+=============================================
