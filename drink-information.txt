@@ -1,7 +1,6 @@
 Example:
 Name: <your name>
 My drink: <your drink>
-
 =============================================
 Name: Champ
 My drink: Americano
