@@ -1,7 +1,6 @@
 Example:
 Name: <your name>
 My drink: <your drink>
-
 =============================================
 Name: Champ
 My drink: Americano
@@ -25,7 +24,6 @@ My drink: Americano
 =============================================
 Name: Gift
 My drink: Pink Milk
-<<<<<<< HEAD
 
 =============================================
 Name: Lynchz
@@ -42,6 +40,10 @@ My drink: Beer
 =============================================
 Name: Tatty
 My drink: Match Latte
+
+=============================================
+Name: Frosty
+My drink: No drink kub
 
 =============================================
 Name: Chaiyo
